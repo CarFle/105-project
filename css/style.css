@@ -8,8 +8,7 @@ section p {
 	color: #F16059;
 }
 section h1 {
-	font: 34px 'Open Sans';
-	font-weight: bold;
+	/* font: 34px 'Open Sans';*/
 }
 section p {
 	font: 16px 'Open Sans';
